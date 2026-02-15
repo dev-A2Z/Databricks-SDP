@@ -3,3 +3,6 @@ A rapidly growing cab service company is facing problems with late data and inef
 
 ## Architecture
 <img width="14204" height="4628" alt="Image" src="https://github.com/user-attachments/assets/540a84aa-2192-40f1-b3ea-3204c20c1f89" />
+
+## ETL Pipeline
+<img width="1095" height="928" alt="Image" src="https://github.com/user-attachments/assets/615aacbc-53b3-48a7-a468-919727533b03" />
